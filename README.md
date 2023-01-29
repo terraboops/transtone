@@ -1,5 +1,5 @@
-# Femme Tone
-Femme Tone is a free, open-source voice training app for trans women.
+# Trans Tone
+Trans Tone is a free, open-source voice training app for trans women.
 
 # Status
 ⚠️ This project is in active development and is not currently available on any app marketplace.
@@ -27,12 +27,12 @@ Once you're set up, you can run the app locally.
 
 iOS
 ```
-cd FemmeTone
+cd TransTone
 npx react-native run-ios
 ```
 
 Android
 ```
-cd FemmeTone
+cd TransTone
 npx react-native run-android
 ```
