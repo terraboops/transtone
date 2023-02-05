@@ -1,5 +1,4 @@
 name: "Trans Tone"
-description: "Build this shit"
 on:
   push:
     branches:
